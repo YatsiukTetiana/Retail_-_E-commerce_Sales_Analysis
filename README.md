@@ -1,5 +1,6 @@
 # Retail - E-commerce Sales Analysis
-Sales analytics for a company that operates in the global market and sells goods in brick-and-mortar stores and online stores.
+Sales analytics for a company that operates in the global market and sells goods in brick-and-mortar stores and online stores.  
+
 [Jupyter Notebook](https://colab.research.google.com/drive/1Dp-R9rRYDL4OK8c9xylft77jym0mQB-S?usp=sharing)
 
 The dataset consists of three tables:
